@@ -203,7 +203,7 @@ Displays:
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/Smart-Retail-Analytics-System.git
+git clone https://github.com/priyanshi0226/Smart-Retail-Analytics-System.git
 ```
 
 2. Install Python libraries
